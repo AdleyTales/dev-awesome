@@ -16,4 +16,8 @@
 
 - awesome-dev-tools 好用的开发工具,软件，npm包，js库等
 
-[https://github.com/AdleyTales/awesome-dev-tools](https://github.com/AdleyTales/awesome-dev-tools)
+[https://github.com/AdleyTales/dev-awesome/blob/master/awesome-dev-tools.md](https://github.com/AdleyTales/dev-awesome/blob/master/awesome-dev-tools.md)
+
+- vconsole 移动端调试工具
+
+[https://github.com/Tencent/vConsole/blob/dev/README_CN.md](https://github.com/Tencent/vConsole/blob/dev/README_CN.md)
