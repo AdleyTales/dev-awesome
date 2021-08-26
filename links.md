@@ -18,6 +18,10 @@
 
 [https://github.com/AdleyTales/dev-awesome/blob/master/awesome-dev-tools.md](https://github.com/AdleyTales/dev-awesome/blob/master/awesome-dev-tools.md)
 
-- vconsole 移动端调试工具
+- 【推荐】 vconsole 移动端调试工具
 
 [https://github.com/Tencent/vConsole/blob/dev/README_CN.md](https://github.com/Tencent/vConsole/blob/dev/README_CN.md)
+
+- 【推荐】 pm2 nodejs进程管理工具
+
+ [https://pm2.io/](https://pm2.io/)
